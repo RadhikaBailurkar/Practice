@@ -1,0 +1,13 @@
+.code, .report, .submit {
+  border: 1px solid black;
+  padding: 15px 30px;
+  text-align: center;
+  font-family: cursive; }
+
+.report {
+  background-color: red; }
+
+.submit {
+  background-color: green; }
+
+/*# sourceMappingURL=inheritance.css.map */
