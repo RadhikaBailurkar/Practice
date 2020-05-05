@@ -1,0 +1,21 @@
+Project0
+
+Requirements
+1.Four or more HTML pages.Pages should be linked by hyperlinks.
+1.1] At least 1 List(ordered or unordered)
+1.2] At least 1 table, 
+1.3] At least 1 image
+
+2. One Stylesheet file(CSS)
+2.1] 5 different CSS properties
+2.2] 5 different types of CSS selectors.(id and class selector)
+2.3] 1 mobile-responsive @media query
+
+3. Bootstrap 4
+3.1] 1 Bootstrap Component
+3.2] 2 Bootstrap columns for layout purposes 
+
+4. Sass
+4.1] 1 SCSS Variable
+4.2] 1 SCSS Nesting
+4.3] 1 SCSS Inheritance
